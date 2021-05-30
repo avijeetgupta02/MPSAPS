@@ -1,0 +1,3912 @@
+{
+    "AN": [
+        {
+            "census_dc": "638",
+            "census_sc": "35",
+            "district": "Nicobars",
+            "state": "AN"
+        },
+        {
+            "census_dc": "639",
+            "census_sc": "35",
+            "district": "North & Middle Andaman",
+            "state": "AN"
+        },
+        {
+            "census_dc": "640",
+            "census_sc": "35",
+            "district": "South Andaman",
+            "state": "AN"
+        }
+    ],
+    "AP": [
+        {
+            "census_dc": "532",
+            "census_sc": "28",
+            "district": "Adilabad",
+            "state": "AP"
+        },
+        {
+            "census_dc": "553",
+            "census_sc": "28",
+            "district": "Anantapur",
+            "state": "AP"
+        },
+        {
+            "census_dc": "554",
+            "census_sc": "28",
+            "district": "Chittoor",
+            "state": "AP"
+        },
+        {
+            "census_dc": "545",
+            "census_sc": "28",
+            "district": "East Godavari",
+            "state": "AP"
+        },
+        {
+            "census_dc": "548",
+            "census_sc": "28",
+            "district": "Guntur",
+            "state": "AP"
+        },
+        {
+            "census_dc": "536",
+            "census_sc": "28",
+            "district": "Hyderabad",
+            "state": "AP"
+        },
+        {
+            "census_dc": "534",
+            "census_sc": "28",
+            "district": "Karimnagar",
+            "state": "AP"
+        },
+        {
+            "census_dc": "541",
+            "census_sc": "28",
+            "district": "Khammam",
+            "state": "AP"
+        },
+        {
+            "census_dc": "547",
+            "census_sc": "28",
+            "district": "Krishna",
+            "state": "AP"
+        },
+        {
+            "census_dc": "552",
+            "census_sc": "28",
+            "district": "Kurnool",
+            "state": "AP"
+        },
+        {
+            "census_dc": "538",
+            "census_sc": "28",
+            "district": "Mahbubnagar",
+            "state": "AP"
+        },
+        {
+            "census_dc": "535",
+            "census_sc": "28",
+            "district": "Medak",
+            "state": "AP"
+        },
+        {
+            "census_dc": "539",
+            "census_sc": "28",
+            "district": "Nalgonda",
+            "state": "AP"
+        },
+        {
+            "census_dc": "533",
+            "census_sc": "28",
+            "district": "Nizamabad",
+            "state": "AP"
+        },
+        {
+            "census_dc": "549",
+            "census_sc": "28",
+            "district": "Prakasam",
+            "state": "AP"
+        },
+        {
+            "census_dc": "537",
+            "census_sc": "28",
+            "district": "Rangareddy",
+            "state": "AP"
+        },
+        {
+            "census_dc": "550",
+            "census_sc": "28",
+            "district": "Sri Potti Sriramulu Nellore",
+            "state": "AP"
+        },
+        {
+            "census_dc": "542",
+            "census_sc": "28",
+            "district": "Srikakulam",
+            "state": "AP"
+        },
+        {
+            "census_dc": "544",
+            "census_sc": "28",
+            "district": "Visakhapatnam",
+            "state": "AP"
+        },
+        {
+            "census_dc": "543",
+            "census_sc": "28",
+            "district": "Vizianagaram",
+            "state": "AP"
+        },
+        {
+            "census_dc": "540",
+            "census_sc": "28",
+            "district": "Warangal",
+            "state": "AP"
+        },
+        {
+            "census_dc": "546",
+            "census_sc": "28",
+            "district": "West Godavari",
+            "state": "AP"
+        },
+        {
+            "census_dc": "551",
+            "census_sc": "28",
+            "district": "Y.S.R.",
+            "state": "AP"
+        }
+    ],
+    "AR": [
+        {
+            "census_dc": "260",
+            "census_sc": "12",
+            "district": "Anjaw",
+            "state": "AR"
+        },
+        {
+            "census_dc": "253",
+            "census_sc": "12",
+            "district": "Changlang",
+            "state": "AR"
+        },
+        {
+            "census_dc": "257",
+            "census_sc": "12",
+            "district": "Dibang Valley",
+            "state": "AR"
+        },
+        {
+            "census_dc": "247",
+            "census_sc": "12",
+            "district": "East Kameng",
+            "state": "AR"
+        },
+        {
+            "census_dc": "251",
+            "census_sc": "12",
+            "district": "East Siang",
+            "state": "AR"
+        },
+        {
+            "census_dc": "256",
+            "census_sc": "12",
+            "district": "Kurung Kumey",
+            "state": "AR"
+        },
+        {
+            "census_dc": "259",
+            "census_sc": "12",
+            "district": "Lohit",
+            "state": "AR"
+        },
+        {
+            "census_dc": "258",
+            "census_sc": "12",
+            "district": "Lower Dibang Valley",
+            "state": "AR"
+        },
+        {
+            "census_dc": "255",
+            "census_sc": "12",
+            "district": "Lower Subansiri",
+            "state": "AR"
+        },
+        {
+            "census_dc": "248",
+            "census_sc": "12",
+            "district": "Papum Pare",
+            "state": "AR"
+        },
+        {
+            "census_dc": "245",
+            "census_sc": "12",
+            "district": "Tawang",
+            "state": "AR"
+        },
+        {
+            "census_dc": "254",
+            "census_sc": "12",
+            "district": "Tirap",
+            "state": "AR"
+        },
+        {
+            "census_dc": "252",
+            "census_sc": "12",
+            "district": "Upper Siang",
+            "state": "AR"
+        },
+        {
+            "census_dc": "249",
+            "census_sc": "12",
+            "district": "Upper Subansiri",
+            "state": "AR"
+        },
+        {
+            "census_dc": "246",
+            "census_sc": "12",
+            "district": "West Kameng",
+            "state": "AR"
+        },
+        {
+            "census_dc": "250",
+            "census_sc": "12",
+            "district": "West Siang",
+            "state": "AR"
+        }
+    ],
+    "AS": [
+        {
+            "census_dc": "324",
+            "census_sc": "18",
+            "district": "Baksa",
+            "state": "AS"
+        },
+        {
+            "census_dc": "303",
+            "census_sc": "18",
+            "district": "Barpeta",
+            "state": "AS"
+        },
+        {
+            "census_dc": "319",
+            "census_sc": "18",
+            "district": "Bongaigaon",
+            "state": "AS"
+        },
+        {
+            "census_dc": "316",
+            "census_sc": "18",
+            "district": "Cachar",
+            "state": "AS"
+        },
+        {
+            "census_dc": "320",
+            "census_sc": "18",
+            "district": "Chirang",
+            "state": "AS"
+        },
+        {
+            "census_dc": "325",
+            "census_sc": "18",
+            "district": "Darrang",
+            "state": "AS"
+        },
+        {
+            "census_dc": "308",
+            "census_sc": "18",
+            "district": "Dhemaji",
+            "state": "AS"
+        },
+        {
+            "census_dc": "301",
+            "census_sc": "18",
+            "district": "Dhubri",
+            "state": "AS"
+        },
+        {
+            "census_dc": "310",
+            "census_sc": "18",
+            "district": "Dibrugarh",
+            "state": "AS"
+        },
+        {
+            "census_dc": "315",
+            "census_sc": "18",
+            "district": "Dima Hasao",
+            "state": "AS"
+        },
+        {
+            "census_dc": "302",
+            "census_sc": "18",
+            "district": "Goalpara",
+            "state": "AS"
+        },
+        {
+            "census_dc": "313",
+            "census_sc": "18",
+            "district": "Golaghat",
+            "state": "AS"
+        },
+        {
+            "census_dc": "318",
+            "census_sc": "18",
+            "district": "Hailakandi",
+            "state": "AS"
+        },
+        {
+            "census_dc": "312",
+            "census_sc": "18",
+            "district": "Jorhat",
+            "state": "AS"
+        },
+        {
+            "census_dc": "321",
+            "census_sc": "18",
+            "district": "Kamrup",
+            "state": "AS"
+        },
+        {
+            "census_dc": "322",
+            "census_sc": "18",
+            "district": "Kamrup Metropolitan",
+            "state": "AS"
+        },
+        {
+            "census_dc": "314",
+            "census_sc": "18",
+            "district": "Karbi Anglong",
+            "state": "AS"
+        },
+        {
+            "census_dc": "317",
+            "census_sc": "18",
+            "district": "Karimganj",
+            "state": "AS"
+        },
+        {
+            "census_dc": "300",
+            "census_sc": "18",
+            "district": "Kokrajhar",
+            "state": "AS"
+        },
+        {
+            "census_dc": "307",
+            "census_sc": "18",
+            "district": "Lakhimpur",
+            "state": "AS"
+        },
+        {
+            "census_dc": "304",
+            "census_sc": "18",
+            "district": "Morigaon",
+            "state": "AS"
+        },
+        {
+            "census_dc": "305",
+            "census_sc": "18",
+            "district": "Nagaon",
+            "state": "AS"
+        },
+        {
+            "census_dc": "323",
+            "census_sc": "18",
+            "district": "Nalbari",
+            "state": "AS"
+        },
+        {
+            "census_dc": "311",
+            "census_sc": "18",
+            "district": "Sivasagar",
+            "state": "AS"
+        },
+        {
+            "census_dc": "306",
+            "census_sc": "18",
+            "district": "Sonitpur",
+            "state": "AS"
+        },
+        {
+            "census_dc": "309",
+            "census_sc": "18",
+            "district": "Tinsukia",
+            "state": "AS"
+        },
+        {
+            "census_dc": "326",
+            "census_sc": "18",
+            "district": "Udalguri",
+            "state": "AS"
+        }
+    ],
+    "BR": [
+        {
+            "census_dc": "209",
+            "census_sc": "10",
+            "district": "Araria",
+            "state": "BR"
+        },
+        {
+            "census_dc": "240",
+            "census_sc": "10",
+            "district": "Arwal",
+            "state": "BR"
+        },
+        {
+            "census_dc": "235",
+            "census_sc": "10",
+            "district": "Aurangabad",
+            "state": "BR"
+        },
+        {
+            "census_dc": "225",
+            "census_sc": "10",
+            "district": "Banka",
+            "state": "BR"
+        },
+        {
+            "census_dc": "222",
+            "census_sc": "10",
+            "district": "Begusarai",
+            "state": "BR"
+        },
+        {
+            "census_dc": "224",
+            "census_sc": "10",
+            "district": "Bhagalpur",
+            "state": "BR"
+        },
+        {
+            "census_dc": "231",
+            "census_sc": "10",
+            "district": "Bhojpur",
+            "state": "BR"
+        },
+        {
+            "census_dc": "232",
+            "census_sc": "10",
+            "district": "Buxar",
+            "state": "BR"
+        },
+        {
+            "census_dc": "215",
+            "census_sc": "10",
+            "district": "Darbhanga",
+            "state": "BR"
+        },
+        {
+            "census_dc": "236",
+            "census_sc": "10",
+            "district": "Gaya",
+            "state": "BR"
+        },
+        {
+            "census_dc": "217",
+            "census_sc": "10",
+            "district": "Gopalganj",
+            "state": "BR"
+        },
+        {
+            "census_dc": "238",
+            "census_sc": "10",
+            "district": "Jamui",
+            "state": "BR"
+        },
+        {
+            "census_dc": "239",
+            "census_sc": "10",
+            "district": "Jehanabad",
+            "state": "BR"
+        },
+        {
+            "census_dc": "233",
+            "census_sc": "10",
+            "district": "Kaimur (Bhabua)",
+            "state": "BR"
+        },
+        {
+            "census_dc": "212",
+            "census_sc": "10",
+            "district": "Katihar",
+            "state": "BR"
+        },
+        {
+            "census_dc": "223",
+            "census_sc": "10",
+            "district": "Khagaria",
+            "state": "BR"
+        },
+        {
+            "census_dc": "210",
+            "census_sc": "10",
+            "district": "Kishanganj",
+            "state": "BR"
+        },
+        {
+            "census_dc": "227",
+            "census_sc": "10",
+            "district": "Lakhisarai",
+            "state": "BR"
+        },
+        {
+            "census_dc": "213",
+            "census_sc": "10",
+            "district": "Madhepura",
+            "state": "BR"
+        },
+        {
+            "census_dc": "207",
+            "census_sc": "10",
+            "district": "Madhubani",
+            "state": "BR"
+        },
+        {
+            "census_dc": "226",
+            "census_sc": "10",
+            "district": "Munger",
+            "state": "BR"
+        },
+        {
+            "census_dc": "216",
+            "census_sc": "10",
+            "district": "Muzaffarpur",
+            "state": "BR"
+        },
+        {
+            "census_dc": "229",
+            "census_sc": "10",
+            "district": "Nalanda",
+            "state": "BR"
+        },
+        {
+            "census_dc": "237",
+            "census_sc": "10",
+            "district": "Nawada",
+            "state": "BR"
+        },
+        {
+            "census_dc": "203",
+            "census_sc": "10",
+            "district": "Pashchim Champaran",
+            "state": "BR"
+        },
+        {
+            "census_dc": "230",
+            "census_sc": "10",
+            "district": "Patna",
+            "state": "BR"
+        },
+        {
+            "census_dc": "204",
+            "census_sc": "10",
+            "district": "Purba Champaran",
+            "state": "BR"
+        },
+        {
+            "census_dc": "211",
+            "census_sc": "10",
+            "district": "Purnia",
+            "state": "BR"
+        },
+        {
+            "census_dc": "234",
+            "census_sc": "10",
+            "district": "Rohtas",
+            "state": "BR"
+        },
+        {
+            "census_dc": "214",
+            "census_sc": "10",
+            "district": "Saharsa",
+            "state": "BR"
+        },
+        {
+            "census_dc": "221",
+            "census_sc": "10",
+            "district": "Samastipur",
+            "state": "BR"
+        },
+        {
+            "census_dc": "219",
+            "census_sc": "10",
+            "district": "Saran",
+            "state": "BR"
+        },
+        {
+            "census_dc": "228",
+            "census_sc": "10",
+            "district": "Sheikhpura",
+            "state": "BR"
+        },
+        {
+            "census_dc": "205",
+            "census_sc": "10",
+            "district": "Sheohar",
+            "state": "BR"
+        },
+        {
+            "census_dc": "206",
+            "census_sc": "10",
+            "district": "Sitamarhi",
+            "state": "BR"
+        },
+        {
+            "census_dc": "218",
+            "census_sc": "10",
+            "district": "Siwan",
+            "state": "BR"
+        },
+        {
+            "census_dc": "208",
+            "census_sc": "10",
+            "district": "Supaul",
+            "state": "BR"
+        },
+        {
+            "census_dc": "220",
+            "census_sc": "10",
+            "district": "Vaishali",
+            "state": "BR"
+        }
+    ],
+    "CH": [
+        {
+            "census_dc": "055",
+            "census_sc": "04",
+            "district": "Chandigarh",
+            "state": "CH"
+        }
+    ],
+    "CT": [
+        {
+            "census_dc": "414",
+            "census_sc": "22",
+            "district": "Bastar",
+            "state": "CT"
+        },
+        {
+            "census_dc": "417",
+            "census_sc": "22",
+            "district": "Bijapur",
+            "state": "CT"
+        },
+        {
+            "census_dc": "406",
+            "census_sc": "22",
+            "district": "Bilaspur",
+            "state": "CT"
+        },
+        {
+            "census_dc": "416",
+            "census_sc": "22",
+            "district": "Dakshin Bastar Dantewada",
+            "state": "CT"
+        },
+        {
+            "census_dc": "412",
+            "census_sc": "22",
+            "district": "Dhamtari",
+            "state": "CT"
+        },
+        {
+            "census_dc": "409",
+            "census_sc": "22",
+            "district": "Durg",
+            "state": "CT"
+        },
+        {
+            "census_dc": "405",
+            "census_sc": "22",
+            "district": "Janjgir - Champa",
+            "state": "CT"
+        },
+        {
+            "census_dc": "402",
+            "census_sc": "22",
+            "district": "Jashpur",
+            "state": "CT"
+        },
+        {
+            "census_dc": "407",
+            "census_sc": "22",
+            "district": "Kabeerdham",
+            "state": "CT"
+        },
+        {
+            "census_dc": "404",
+            "census_sc": "22",
+            "district": "Korba",
+            "state": "CT"
+        },
+        {
+            "census_dc": "400",
+            "census_sc": "22",
+            "district": "Koriya",
+            "state": "CT"
+        },
+        {
+            "census_dc": "411",
+            "census_sc": "22",
+            "district": "Mahasamund",
+            "state": "CT"
+        },
+        {
+            "census_dc": "415",
+            "census_sc": "22",
+            "district": "Narayanpur",
+            "state": "CT"
+        },
+        {
+            "census_dc": "403",
+            "census_sc": "22",
+            "district": "Raigarh",
+            "state": "CT"
+        },
+        {
+            "census_dc": "410",
+            "census_sc": "22",
+            "district": "Raipur",
+            "state": "CT"
+        },
+        {
+            "census_dc": "408",
+            "census_sc": "22",
+            "district": "Rajnandgaon",
+            "state": "CT"
+        },
+        {
+            "census_dc": "401",
+            "census_sc": "22",
+            "district": "Surguja",
+            "state": "CT"
+        },
+        {
+            "census_dc": "413",
+            "census_sc": "22",
+            "district": "Uttar Bastar Kanker",
+            "state": "CT"
+        }
+    ],
+    "DD": [
+        {
+            "census_dc": "495",
+            "census_sc": "25",
+            "district": "Daman",
+            "state": "DD"
+        },
+        {
+            "census_dc": "494",
+            "census_sc": "25",
+            "district": "Diu",
+            "state": "DD"
+        }
+    ],
+    "DL": [
+        {
+            "census_dc": "095",
+            "census_sc": "07",
+            "district": "Central",
+            "state": "DL"
+        },
+        {
+            "census_dc": "093",
+            "census_sc": "07",
+            "district": "East",
+            "state": "DL"
+        },
+        {
+            "census_dc": "094",
+            "census_sc": "07",
+            "district": "New Delhi",
+            "state": "DL"
+        },
+        {
+            "census_dc": "091",
+            "census_sc": "07",
+            "district": "North",
+            "state": "DL"
+        },
+        {
+            "census_dc": "092",
+            "census_sc": "07",
+            "district": "North East",
+            "state": "DL"
+        },
+        {
+            "census_dc": "090",
+            "census_sc": "07",
+            "district": "North West",
+            "state": "DL"
+        },
+        {
+            "census_dc": "098",
+            "census_sc": "07",
+            "district": "South",
+            "state": "DL"
+        },
+        {
+            "census_dc": "097",
+            "census_sc": "07",
+            "district": "South West",
+            "state": "DL"
+        },
+        {
+            "census_dc": "096",
+            "census_sc": "07",
+            "district": "West",
+            "state": "DL"
+        }
+    ],
+    "DN": [
+        {
+            "census_dc": "496",
+            "census_sc": "26",
+            "district": "Dadra & Nagar Haveli",
+            "state": "DN"
+        }
+    ],
+    "GA": [
+        {
+            "census_dc": "585",
+            "census_sc": "30",
+            "district": "North Goa",
+            "state": "GA"
+        },
+        {
+            "census_dc": "586",
+            "census_sc": "30",
+            "district": "South Goa",
+            "state": "GA"
+        }
+    ],
+    "GJ": [
+        {
+            "census_dc": "474",
+            "census_sc": "24",
+            "district": "Ahmadabad",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "480",
+            "census_sc": "24",
+            "district": "Amreli",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "482",
+            "census_sc": "24",
+            "district": "Anand",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "469",
+            "census_sc": "24",
+            "district": "Banas Kantha",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "488",
+            "census_sc": "24",
+            "district": "Bharuch",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "481",
+            "census_sc": "24",
+            "district": "Bhavnagar",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "485",
+            "census_sc": "24",
+            "district": "Dohad",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "473",
+            "census_sc": "24",
+            "district": "Gandhinagar",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "477",
+            "census_sc": "24",
+            "district": "Jamnagar",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "479",
+            "census_sc": "24",
+            "district": "Junagadh",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "468",
+            "census_sc": "24",
+            "district": "Kachchh",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "483",
+            "census_sc": "24",
+            "district": "Kheda",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "471",
+            "census_sc": "24",
+            "district": "Mahesana",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "487",
+            "census_sc": "24",
+            "district": "Narmada",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "490",
+            "census_sc": "24",
+            "district": "Navsari",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "484",
+            "census_sc": "24",
+            "district": "Panch Mahals",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "470",
+            "census_sc": "24",
+            "district": "Patan",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "478",
+            "census_sc": "24",
+            "district": "Porbandar",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "476",
+            "census_sc": "24",
+            "district": "Rajkot",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "472",
+            "census_sc": "24",
+            "district": "Sabar Kantha",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "492",
+            "census_sc": "24",
+            "district": "Surat",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "475",
+            "census_sc": "24",
+            "district": "Surendranagar",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "493",
+            "census_sc": "24",
+            "district": "Tapi",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "489",
+            "census_sc": "24",
+            "district": "The Dangs",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "486",
+            "census_sc": "24",
+            "district": "Vadodara",
+            "state": "GJ"
+        },
+        {
+            "census_dc": "491",
+            "census_sc": "24",
+            "district": "Valsad",
+            "state": "GJ"
+        }
+    ],
+    "HP": [
+        {
+            "census_dc": "030",
+            "census_sc": "02",
+            "district": "Bilaspur",
+            "state": "HP"
+        },
+        {
+            "census_dc": "023",
+            "census_sc": "02",
+            "district": "Chamba",
+            "state": "HP"
+        },
+        {
+            "census_dc": "028",
+            "census_sc": "02",
+            "district": "Hamirpur",
+            "state": "HP"
+        },
+        {
+            "census_dc": "024",
+            "census_sc": "02",
+            "district": "Kangra",
+            "state": "HP"
+        },
+        {
+            "census_dc": "034",
+            "census_sc": "02",
+            "district": "Kinnaur",
+            "state": "HP"
+        },
+        {
+            "census_dc": "026",
+            "census_sc": "02",
+            "district": "Kullu",
+            "state": "HP"
+        },
+        {
+            "census_dc": "025",
+            "census_sc": "02",
+            "district": "Lahul & Spiti",
+            "state": "HP"
+        },
+        {
+            "census_dc": "027",
+            "census_sc": "02",
+            "district": "Mandi",
+            "state": "HP"
+        },
+        {
+            "census_dc": "033",
+            "census_sc": "02",
+            "district": "Shimla",
+            "state": "HP"
+        },
+        {
+            "census_dc": "032",
+            "census_sc": "02",
+            "district": "Sirmaur",
+            "state": "HP"
+        },
+        {
+            "census_dc": "031",
+            "census_sc": "02",
+            "district": "Solan",
+            "state": "HP"
+        },
+        {
+            "census_dc": "029",
+            "census_sc": "02",
+            "district": "Una",
+            "state": "HP"
+        }
+    ],
+    "HR": [
+        {
+            "census_dc": "070",
+            "census_sc": "06",
+            "district": "Ambala",
+            "state": "HR"
+        },
+        {
+            "census_dc": "081",
+            "census_sc": "06",
+            "district": "Bhiwani",
+            "state": "HR"
+        },
+        {
+            "census_dc": "088",
+            "census_sc": "06",
+            "district": "Faridabad",
+            "state": "HR"
+        },
+        {
+            "census_dc": "078",
+            "census_sc": "06",
+            "district": "Fatehabad",
+            "state": "HR"
+        },
+        {
+            "census_dc": "086",
+            "census_sc": "06",
+            "district": "Gurgaon",
+            "state": "HR"
+        },
+        {
+            "census_dc": "080",
+            "census_sc": "06",
+            "district": "Hisar",
+            "state": "HR"
+        },
+        {
+            "census_dc": "083",
+            "census_sc": "06",
+            "district": "Jhajjar",
+            "state": "HR"
+        },
+        {
+            "census_dc": "077",
+            "census_sc": "06",
+            "district": "Jind",
+            "state": "HR"
+        },
+        {
+            "census_dc": "073",
+            "census_sc": "06",
+            "district": "Kaithal",
+            "state": "HR"
+        },
+        {
+            "census_dc": "074",
+            "census_sc": "06",
+            "district": "Karnal",
+            "state": "HR"
+        },
+        {
+            "census_dc": "072",
+            "census_sc": "06",
+            "district": "Kurukshetra",
+            "state": "HR"
+        },
+        {
+            "census_dc": "084",
+            "census_sc": "06",
+            "district": "Mahendragarh",
+            "state": "HR"
+        },
+        {
+            "census_dc": "087",
+            "census_sc": "06",
+            "district": "Mewat",
+            "state": "HR"
+        },
+        {
+            "census_dc": "089",
+            "census_sc": "06",
+            "district": "Palwal",
+            "state": "HR"
+        },
+        {
+            "census_dc": "069",
+            "census_sc": "06",
+            "district": "Panchkula",
+            "state": "HR"
+        },
+        {
+            "census_dc": "075",
+            "census_sc": "06",
+            "district": "Panipat",
+            "state": "HR"
+        },
+        {
+            "census_dc": "085",
+            "census_sc": "06",
+            "district": "Rewari",
+            "state": "HR"
+        },
+        {
+            "census_dc": "082",
+            "census_sc": "06",
+            "district": "Rohtak",
+            "state": "HR"
+        },
+        {
+            "census_dc": "079",
+            "census_sc": "06",
+            "district": "Sirsa",
+            "state": "HR"
+        },
+        {
+            "census_dc": "076",
+            "census_sc": "06",
+            "district": "Sonipat",
+            "state": "HR"
+        },
+        {
+            "census_dc": "071",
+            "census_sc": "06",
+            "district": "Yamunanagar",
+            "state": "HR"
+        }
+    ],
+    "JH": [
+        {
+            "census_dc": "355",
+            "census_sc": "20",
+            "district": "Bokaro",
+            "state": "JH"
+        },
+        {
+            "census_dc": "347",
+            "census_sc": "20",
+            "district": "Chatra",
+            "state": "JH"
+        },
+        {
+            "census_dc": "350",
+            "census_sc": "20",
+            "district": "Deoghar",
+            "state": "JH"
+        },
+        {
+            "census_dc": "354",
+            "census_sc": "20",
+            "district": "Dhanbad",
+            "state": "JH"
+        },
+        {
+            "census_dc": "362",
+            "census_sc": "20",
+            "district": "Dumka",
+            "state": "JH"
+        },
+        {
+            "census_dc": "346",
+            "census_sc": "20",
+            "district": "Garhwa",
+            "state": "JH"
+        },
+        {
+            "census_dc": "349",
+            "census_sc": "20",
+            "district": "Giridih",
+            "state": "JH"
+        },
+        {
+            "census_dc": "351",
+            "census_sc": "20",
+            "district": "Godda",
+            "state": "JH"
+        },
+        {
+            "census_dc": "366",
+            "census_sc": "20",
+            "district": "Gumla",
+            "state": "JH"
+        },
+        {
+            "census_dc": "360",
+            "census_sc": "20",
+            "district": "Hazaribagh",
+            "state": "JH"
+        },
+        {
+            "census_dc": "363",
+            "census_sc": "20",
+            "district": "Jamtara",
+            "state": "JH"
+        },
+        {
+            "census_dc": "365",
+            "census_sc": "20",
+            "district": "Khunti",
+            "state": "JH"
+        },
+        {
+            "census_dc": "348",
+            "census_sc": "20",
+            "district": "Kodarma",
+            "state": "JH"
+        },
+        {
+            "census_dc": "359",
+            "census_sc": "20",
+            "district": "Latehar",
+            "state": "JH"
+        },
+        {
+            "census_dc": "356",
+            "census_sc": "20",
+            "district": "Lohardaga",
+            "state": "JH"
+        },
+        {
+            "census_dc": "353",
+            "census_sc": "20",
+            "district": "Pakur",
+            "state": "JH"
+        },
+        {
+            "census_dc": "358",
+            "census_sc": "20",
+            "district": "Palamu",
+            "state": "JH"
+        },
+        {
+            "census_dc": "368",
+            "census_sc": "20",
+            "district": "Pashchimi Singhbhum",
+            "state": "JH"
+        },
+        {
+            "census_dc": "357",
+            "census_sc": "20",
+            "district": "Purbi Singhbhum",
+            "state": "JH"
+        },
+        {
+            "census_dc": "361",
+            "census_sc": "20",
+            "district": "Ramgarh",
+            "state": "JH"
+        },
+        {
+            "census_dc": "364",
+            "census_sc": "20",
+            "district": "Ranchi",
+            "state": "JH"
+        },
+        {
+            "census_dc": "352",
+            "census_sc": "20",
+            "district": "Sahibganj",
+            "state": "JH"
+        },
+        {
+            "census_dc": "369",
+            "census_sc": "20",
+            "district": "Saraikela-Kharsawan",
+            "state": "JH"
+        },
+        {
+            "census_dc": "367",
+            "census_sc": "20",
+            "district": "Simdega",
+            "state": "JH"
+        }
+    ],
+    "JK": [
+        {
+            "census_dc": "014",
+            "census_sc": "01",
+            "district": "Anantnag",
+            "state": "JK"
+        },
+        {
+            "census_dc": "002",
+            "census_sc": "01",
+            "district": "Badgam",
+            "state": "JK"
+        },
+        {
+            "census_dc": "009",
+            "census_sc": "01",
+            "district": "Bandipore",
+            "state": "JK"
+        },
+        {
+            "census_dc": "008",
+            "census_sc": "01",
+            "district": "Baramula",
+            "state": "JK"
+        },
+        {
+            "census_dc": "016",
+            "census_sc": "01",
+            "district": "Doda",
+            "state": "JK"
+        },
+        {
+            "census_dc": "011",
+            "census_sc": "01",
+            "district": "Ganderbal",
+            "state": "JK"
+        },
+        {
+            "census_dc": "021",
+            "census_sc": "01",
+            "district": "Jammu",
+            "state": "JK"
+        },
+        {
+            "census_dc": "004",
+            "census_sc": "01",
+            "district": "Kargil",
+            "state": "JK"
+        },
+        {
+            "census_dc": "007",
+            "census_sc": "01",
+            "district": "Kathua",
+            "state": "JK"
+        },
+        {
+            "census_dc": "018",
+            "census_sc": "01",
+            "district": "Kishtwar",
+            "state": "JK"
+        },
+        {
+            "census_dc": "015",
+            "census_sc": "01",
+            "district": "Kulgam",
+            "state": "JK"
+        },
+        {
+            "census_dc": "001",
+            "census_sc": "01",
+            "district": "Kupwara",
+            "state": "JK"
+        },
+        {
+            "census_dc": "003",
+            "census_sc": "01",
+            "district": "Leh(Ladakh)",
+            "state": "JK"
+        },
+        {
+            "census_dc": "012",
+            "census_sc": "01",
+            "district": "Pulwama",
+            "state": "JK"
+        },
+        {
+            "census_dc": "005",
+            "census_sc": "01",
+            "district": "Punch",
+            "state": "JK"
+        },
+        {
+            "census_dc": "006",
+            "census_sc": "01",
+            "district": "Rajouri",
+            "state": "JK"
+        },
+        {
+            "census_dc": "017",
+            "census_sc": "01",
+            "district": "Ramban",
+            "state": "JK"
+        },
+        {
+            "census_dc": "020",
+            "census_sc": "01",
+            "district": "Reasi",
+            "state": "JK"
+        },
+        {
+            "census_dc": "022",
+            "census_sc": "01",
+            "district": "Samba",
+            "state": "JK"
+        },
+        {
+            "census_dc": "013",
+            "census_sc": "01",
+            "district": "Shupiyan",
+            "state": "JK"
+        },
+        {
+            "census_dc": "010",
+            "census_sc": "01",
+            "district": "Srinagar",
+            "state": "JK"
+        },
+        {
+            "census_dc": "019",
+            "census_sc": "01",
+            "district": "Udhampur",
+            "state": "JK"
+        }
+    ],
+    "KA": [
+        {
+            "census_dc": "556",
+            "census_sc": "29",
+            "district": "Bagalkot",
+            "state": "KA"
+        },
+        {
+            "census_dc": "572",
+            "census_sc": "29",
+            "district": "Bangalore",
+            "state": "KA"
+        },
+        {
+            "census_dc": "583",
+            "census_sc": "29",
+            "district": "Bangalore Rural",
+            "state": "KA"
+        },
+        {
+            "census_dc": "555",
+            "census_sc": "29",
+            "district": "Belgaum",
+            "state": "KA"
+        },
+        {
+            "census_dc": "565",
+            "census_sc": "29",
+            "district": "Bellary",
+            "state": "KA"
+        },
+        {
+            "census_dc": "558",
+            "census_sc": "29",
+            "district": "Bidar",
+            "state": "KA"
+        },
+        {
+            "census_dc": "557",
+            "census_sc": "29",
+            "district": "Bijapur",
+            "state": "KA"
+        },
+        {
+            "census_dc": "578",
+            "census_sc": "29",
+            "district": "Chamarajanagar",
+            "state": "KA"
+        },
+        {
+            "census_dc": "582",
+            "census_sc": "29",
+            "district": "Chikkaballapura",
+            "state": "KA"
+        },
+        {
+            "census_dc": "570",
+            "census_sc": "29",
+            "district": "Chikmagalur",
+            "state": "KA"
+        },
+        {
+            "census_dc": "566",
+            "census_sc": "29",
+            "district": "Chitradurga",
+            "state": "KA"
+        },
+        {
+            "census_dc": "575",
+            "census_sc": "29",
+            "district": "Dakshina Kannada",
+            "state": "KA"
+        },
+        {
+            "census_dc": "567",
+            "census_sc": "29",
+            "district": "Davanagere",
+            "state": "KA"
+        },
+        {
+            "census_dc": "562",
+            "census_sc": "29",
+            "district": "Dharwad",
+            "state": "KA"
+        },
+        {
+            "census_dc": "561",
+            "census_sc": "29",
+            "district": "Gadag",
+            "state": "KA"
+        },
+        {
+            "census_dc": "579",
+            "census_sc": "29",
+            "district": "Gulbarga",
+            "state": "KA"
+        },
+        {
+            "census_dc": "574",
+            "census_sc": "29",
+            "district": "Hassan",
+            "state": "KA"
+        },
+        {
+            "census_dc": "564",
+            "census_sc": "29",
+            "district": "Haveri",
+            "state": "KA"
+        },
+        {
+            "census_dc": "576",
+            "census_sc": "29",
+            "district": "Kodagu",
+            "state": "KA"
+        },
+        {
+            "census_dc": "581",
+            "census_sc": "29",
+            "district": "Kolar",
+            "state": "KA"
+        },
+        {
+            "census_dc": "560",
+            "census_sc": "29",
+            "district": "Koppal",
+            "state": "KA"
+        },
+        {
+            "census_dc": "573",
+            "census_sc": "29",
+            "district": "Mandya",
+            "state": "KA"
+        },
+        {
+            "census_dc": "577",
+            "census_sc": "29",
+            "district": "Mysore",
+            "state": "KA"
+        },
+        {
+            "census_dc": "559",
+            "census_sc": "29",
+            "district": "Raichur",
+            "state": "KA"
+        },
+        {
+            "census_dc": "584",
+            "census_sc": "29",
+            "district": "Ramanagara",
+            "state": "KA"
+        },
+        {
+            "census_dc": "568",
+            "census_sc": "29",
+            "district": "Shimoga",
+            "state": "KA"
+        },
+        {
+            "census_dc": "571",
+            "census_sc": "29",
+            "district": "Tumkur",
+            "state": "KA"
+        },
+        {
+            "census_dc": "569",
+            "census_sc": "29",
+            "district": "Udupi",
+            "state": "KA"
+        },
+        {
+            "census_dc": "563",
+            "census_sc": "29",
+            "district": "Uttara Kannada",
+            "state": "KA"
+        },
+        {
+            "census_dc": "580",
+            "census_sc": "29",
+            "district": "Yadgir",
+            "state": "KA"
+        }
+    ],
+    "KL": [
+        {
+            "census_dc": "598",
+            "census_sc": "32",
+            "district": "Alappuzha",
+            "state": "KL"
+        },
+        {
+            "census_dc": "595",
+            "census_sc": "32",
+            "district": "Ernakulam",
+            "state": "KL"
+        },
+        {
+            "census_dc": "596",
+            "census_sc": "32",
+            "district": "Idukki",
+            "state": "KL"
+        },
+        {
+            "census_dc": "589",
+            "census_sc": "32",
+            "district": "Kannur",
+            "state": "KL"
+        },
+        {
+            "census_dc": "588",
+            "census_sc": "32",
+            "district": "Kasaragod",
+            "state": "KL"
+        },
+        {
+            "census_dc": "600",
+            "census_sc": "32",
+            "district": "Kollam",
+            "state": "KL"
+        },
+        {
+            "census_dc": "597",
+            "census_sc": "32",
+            "district": "Kottayam",
+            "state": "KL"
+        },
+        {
+            "census_dc": "591",
+            "census_sc": "32",
+            "district": "Kozhikode",
+            "state": "KL"
+        },
+        {
+            "census_dc": "592",
+            "census_sc": "32",
+            "district": "Malappuram",
+            "state": "KL"
+        },
+        {
+            "census_dc": "593",
+            "census_sc": "32",
+            "district": "Palakkad",
+            "state": "KL"
+        },
+        {
+            "census_dc": "599",
+            "census_sc": "32",
+            "district": "Pathanamthitta",
+            "state": "KL"
+        },
+        {
+            "census_dc": "601",
+            "census_sc": "32",
+            "district": "Thiruvananthapuram",
+            "state": "KL"
+        },
+        {
+            "census_dc": "594",
+            "census_sc": "32",
+            "district": "Thrissur",
+            "state": "KL"
+        },
+        {
+            "census_dc": "590",
+            "census_sc": "32",
+            "district": "Wayanad",
+            "state": "KL"
+        }
+    ],
+    "LD": [
+        {
+            "census_dc": "587",
+            "census_sc": "31",
+            "district": "Lakshadweep",
+            "state": "LD"
+        }
+    ],
+    "MH": [
+        {
+            "census_dc": "522",
+            "census_sc": "27",
+            "district": "Ahmadnagar",
+            "state": "MH"
+        },
+        {
+            "census_dc": "501",
+            "census_sc": "27",
+            "district": "Akola",
+            "state": "MH"
+        },
+        {
+            "census_dc": "503",
+            "census_sc": "27",
+            "district": "Amravati",
+            "state": "MH"
+        },
+        {
+            "census_dc": "515",
+            "census_sc": "27",
+            "district": "Aurangabad",
+            "state": "MH"
+        },
+        {
+            "census_dc": "506",
+            "census_sc": "27",
+            "district": "Bhandara",
+            "state": "MH"
+        },
+        {
+            "census_dc": "523",
+            "census_sc": "27",
+            "district": "Bid",
+            "state": "MH"
+        },
+        {
+            "census_dc": "500",
+            "census_sc": "27",
+            "district": "Buldana",
+            "state": "MH"
+        },
+        {
+            "census_dc": "509",
+            "census_sc": "27",
+            "district": "Chandrapur",
+            "state": "MH"
+        },
+        {
+            "census_dc": "498",
+            "census_sc": "27",
+            "district": "Dhule",
+            "state": "MH"
+        },
+        {
+            "census_dc": "508",
+            "census_sc": "27",
+            "district": "Gadchiroli",
+            "state": "MH"
+        },
+        {
+            "census_dc": "507",
+            "census_sc": "27",
+            "district": "Gondiya",
+            "state": "MH"
+        },
+        {
+            "census_dc": "512",
+            "census_sc": "27",
+            "district": "Hingoli",
+            "state": "MH"
+        },
+        {
+            "census_dc": "499",
+            "census_sc": "27",
+            "district": "Jalgaon",
+            "state": "MH"
+        },
+        {
+            "census_dc": "514",
+            "census_sc": "27",
+            "district": "Jalna",
+            "state": "MH"
+        },
+        {
+            "census_dc": "530",
+            "census_sc": "27",
+            "district": "Kolhapur",
+            "state": "MH"
+        },
+        {
+            "census_dc": "524",
+            "census_sc": "27",
+            "district": "Latur",
+            "state": "MH"
+        },
+        {
+            "census_dc": "519",
+            "census_sc": "27",
+            "district": "Mumbai",
+            "state": "MH"
+        },
+        {
+            "census_dc": "518",
+            "census_sc": "27",
+            "district": "Mumbai Suburban",
+            "state": "MH"
+        },
+        {
+            "census_dc": "505",
+            "census_sc": "27",
+            "district": "Nagpur",
+            "state": "MH"
+        },
+        {
+            "census_dc": "511",
+            "census_sc": "27",
+            "district": "Nanded",
+            "state": "MH"
+        },
+        {
+            "census_dc": "497",
+            "census_sc": "27",
+            "district": "Nandurbar",
+            "state": "MH"
+        },
+        {
+            "census_dc": "516",
+            "census_sc": "27",
+            "district": "Nashik",
+            "state": "MH"
+        },
+        {
+            "census_dc": "525",
+            "census_sc": "27",
+            "district": "Osmanabad",
+            "state": "MH"
+        },
+        {
+            "census_dc": "513",
+            "census_sc": "27",
+            "district": "Parbhani",
+            "state": "MH"
+        },
+        {
+            "census_dc": "521",
+            "census_sc": "27",
+            "district": "Pune",
+            "state": "MH"
+        },
+        {
+            "census_dc": "520",
+            "census_sc": "27",
+            "district": "Raigarh",
+            "state": "MH"
+        },
+        {
+            "census_dc": "528",
+            "census_sc": "27",
+            "district": "Ratnagiri",
+            "state": "MH"
+        },
+        {
+            "census_dc": "531",
+            "census_sc": "27",
+            "district": "Sangli",
+            "state": "MH"
+        },
+        {
+            "census_dc": "527",
+            "census_sc": "27",
+            "district": "Satara",
+            "state": "MH"
+        },
+        {
+            "census_dc": "529",
+            "census_sc": "27",
+            "district": "Sindhudurg",
+            "state": "MH"
+        },
+        {
+            "census_dc": "526",
+            "census_sc": "27",
+            "district": "Solapur",
+            "state": "MH"
+        },
+        {
+            "census_dc": "517",
+            "census_sc": "27",
+            "district": "Thane",
+            "state": "MH"
+        },
+        {
+            "census_dc": "504",
+            "census_sc": "27",
+            "district": "Wardha",
+            "state": "MH"
+        },
+        {
+            "census_dc": "502",
+            "census_sc": "27",
+            "district": "Washim",
+            "state": "MH"
+        },
+        {
+            "census_dc": "510",
+            "census_sc": "27",
+            "district": "Yavatmal",
+            "state": "MH"
+        }
+    ],
+    "ML": [
+        {
+            "census_dc": "294",
+            "census_sc": "17",
+            "district": "East Garo Hills",
+            "state": "ML"
+        },
+        {
+            "census_dc": "298",
+            "census_sc": "17",
+            "district": "East Khasi Hills",
+            "state": "ML"
+        },
+        {
+            "census_dc": "299",
+            "census_sc": "17",
+            "district": "Jaintia Hills",
+            "state": "ML"
+        },
+        {
+            "census_dc": "297",
+            "census_sc": "17",
+            "district": "Ribhoi",
+            "state": "ML"
+        },
+        {
+            "census_dc": "295",
+            "census_sc": "17",
+            "district": "South Garo Hills",
+            "state": "ML"
+        },
+        {
+            "census_dc": "293",
+            "census_sc": "17",
+            "district": "West Garo Hills",
+            "state": "ML"
+        },
+        {
+            "census_dc": "296",
+            "census_sc": "17",
+            "district": "West Khasi Hills",
+            "state": "ML"
+        }
+    ],
+    "MN": [
+        {
+            "census_dc": "275",
+            "census_sc": "14",
+            "district": "Bishnupur",
+            "state": "MN"
+        },
+        {
+            "census_dc": "280",
+            "census_sc": "14",
+            "district": "Chandel",
+            "state": "MN"
+        },
+        {
+            "census_dc": "274",
+            "census_sc": "14",
+            "district": "Churachandpur",
+            "state": "MN"
+        },
+        {
+            "census_dc": "278",
+            "census_sc": "14",
+            "district": "Imphal East",
+            "state": "MN"
+        },
+        {
+            "census_dc": "277",
+            "census_sc": "14",
+            "district": "Imphal West",
+            "state": "MN"
+        },
+        {
+            "census_dc": "272",
+            "census_sc": "14",
+            "district": "Senapati",
+            "state": "MN"
+        },
+        {
+            "census_dc": "273",
+            "census_sc": "14",
+            "district": "Tamenglong",
+            "state": "MN"
+        },
+        {
+            "census_dc": "276",
+            "census_sc": "14",
+            "district": "Thoubal",
+            "state": "MN"
+        },
+        {
+            "census_dc": "279",
+            "census_sc": "14",
+            "district": "Ukhrul",
+            "state": "MN"
+        }
+    ],
+    "MP": [
+        {
+            "census_dc": "465",
+            "census_sc": "23",
+            "district": "Alirajpur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "461",
+            "census_sc": "23",
+            "district": "Anuppur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "459",
+            "census_sc": "23",
+            "district": "Ashoknagar",
+            "state": "MP"
+        },
+        {
+            "census_dc": "457",
+            "census_sc": "23",
+            "district": "Balaghat",
+            "state": "MP"
+        },
+        {
+            "census_dc": "441",
+            "census_sc": "23",
+            "district": "Barwani",
+            "state": "MP"
+        },
+        {
+            "census_dc": "447",
+            "census_sc": "23",
+            "district": "Betul",
+            "state": "MP"
+        },
+        {
+            "census_dc": "420",
+            "census_sc": "23",
+            "district": "Bhind",
+            "state": "MP"
+        },
+        {
+            "census_dc": "444",
+            "census_sc": "23",
+            "district": "Bhopal",
+            "state": "MP"
+        },
+        {
+            "census_dc": "467",
+            "census_sc": "23",
+            "district": "Burhanpur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "425",
+            "census_sc": "23",
+            "district": "Chhatarpur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "455",
+            "census_sc": "23",
+            "district": "Chhindwara",
+            "state": "MP"
+        },
+        {
+            "census_dc": "428",
+            "census_sc": "23",
+            "district": "Damoh",
+            "state": "MP"
+        },
+        {
+            "census_dc": "422",
+            "census_sc": "23",
+            "district": "Datia",
+            "state": "MP"
+        },
+        {
+            "census_dc": "437",
+            "census_sc": "23",
+            "district": "Dewas",
+            "state": "MP"
+        },
+        {
+            "census_dc": "438",
+            "census_sc": "23",
+            "district": "Dhar",
+            "state": "MP"
+        },
+        {
+            "census_dc": "453",
+            "census_sc": "23",
+            "district": "Dindori",
+            "state": "MP"
+        },
+        {
+            "census_dc": "458",
+            "census_sc": "23",
+            "district": "Guna",
+            "state": "MP"
+        },
+        {
+            "census_dc": "421",
+            "census_sc": "23",
+            "district": "Gwalior",
+            "state": "MP"
+        },
+        {
+            "census_dc": "448",
+            "census_sc": "23",
+            "district": "Harda",
+            "state": "MP"
+        },
+        {
+            "census_dc": "449",
+            "census_sc": "23",
+            "district": "Hoshangabad",
+            "state": "MP"
+        },
+        {
+            "census_dc": "439",
+            "census_sc": "23",
+            "district": "Indore",
+            "state": "MP"
+        },
+        {
+            "census_dc": "451",
+            "census_sc": "23",
+            "district": "Jabalpur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "464",
+            "census_sc": "23",
+            "district": "Jhabua",
+            "state": "MP"
+        },
+        {
+            "census_dc": "450",
+            "census_sc": "23",
+            "district": "Katni",
+            "state": "MP"
+        },
+        {
+            "census_dc": "466",
+            "census_sc": "23",
+            "district": "Khandwa (East Nimar)",
+            "state": "MP"
+        },
+        {
+            "census_dc": "440",
+            "census_sc": "23",
+            "district": "Khargone (West Nimar)",
+            "state": "MP"
+        },
+        {
+            "census_dc": "454",
+            "census_sc": "23",
+            "district": "Mandla",
+            "state": "MP"
+        },
+        {
+            "census_dc": "433",
+            "census_sc": "23",
+            "district": "Mandsaur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "419",
+            "census_sc": "23",
+            "district": "Morena",
+            "state": "MP"
+        },
+        {
+            "census_dc": "452",
+            "census_sc": "23",
+            "district": "Narsimhapur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "432",
+            "census_sc": "23",
+            "district": "Neemuch",
+            "state": "MP"
+        },
+        {
+            "census_dc": "426",
+            "census_sc": "23",
+            "district": "Panna",
+            "state": "MP"
+        },
+        {
+            "census_dc": "446",
+            "census_sc": "23",
+            "district": "Raisen",
+            "state": "MP"
+        },
+        {
+            "census_dc": "442",
+            "census_sc": "23",
+            "district": "Rajgarh",
+            "state": "MP"
+        },
+        {
+            "census_dc": "434",
+            "census_sc": "23",
+            "district": "Ratlam",
+            "state": "MP"
+        },
+        {
+            "census_dc": "430",
+            "census_sc": "23",
+            "district": "Rewa",
+            "state": "MP"
+        },
+        {
+            "census_dc": "427",
+            "census_sc": "23",
+            "district": "Sagar",
+            "state": "MP"
+        },
+        {
+            "census_dc": "429",
+            "census_sc": "23",
+            "district": "Satna",
+            "state": "MP"
+        },
+        {
+            "census_dc": "445",
+            "census_sc": "23",
+            "district": "Sehore",
+            "state": "MP"
+        },
+        {
+            "census_dc": "456",
+            "census_sc": "23",
+            "district": "Seoni",
+            "state": "MP"
+        },
+        {
+            "census_dc": "460",
+            "census_sc": "23",
+            "district": "Shahdol",
+            "state": "MP"
+        },
+        {
+            "census_dc": "436",
+            "census_sc": "23",
+            "district": "Shajapur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "418",
+            "census_sc": "23",
+            "district": "Sheopur",
+            "state": "MP"
+        },
+        {
+            "census_dc": "423",
+            "census_sc": "23",
+            "district": "Shivpuri",
+            "state": "MP"
+        },
+        {
+            "census_dc": "462",
+            "census_sc": "23",
+            "district": "Sidhi",
+            "state": "MP"
+        },
+        {
+            "census_dc": "463",
+            "census_sc": "23",
+            "district": "Singrauli",
+            "state": "MP"
+        },
+        {
+            "census_dc": "424",
+            "census_sc": "23",
+            "district": "Tikamgarh",
+            "state": "MP"
+        },
+        {
+            "census_dc": "435",
+            "census_sc": "23",
+            "district": "Ujjain",
+            "state": "MP"
+        },
+        {
+            "census_dc": "431",
+            "census_sc": "23",
+            "district": "Umaria",
+            "state": "MP"
+        },
+        {
+            "census_dc": "443",
+            "census_sc": "23",
+            "district": "Vidisha",
+            "state": "MP"
+        }
+    ],
+    "MZ": [
+        {
+            "census_dc": "283",
+            "census_sc": "15",
+            "district": "Aizawl",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "284",
+            "census_sc": "15",
+            "district": "Champhai",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "282",
+            "census_sc": "15",
+            "district": "Kolasib",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "287",
+            "census_sc": "15",
+            "district": "Lawngtlai",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "286",
+            "census_sc": "15",
+            "district": "Lunglei",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "281",
+            "census_sc": "15",
+            "district": "Mamit",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "288",
+            "census_sc": "15",
+            "district": "Saiha",
+            "state": "MZ"
+        },
+        {
+            "census_dc": "285",
+            "census_sc": "15",
+            "district": "Serchhip",
+            "state": "MZ"
+        }
+    ],
+    "NL": [
+        {
+            "census_dc": "265",
+            "census_sc": "13",
+            "district": "Dimapur",
+            "state": "NL"
+        },
+        {
+            "census_dc": "269",
+            "census_sc": "13",
+            "district": "Kiphire",
+            "state": "NL"
+        },
+        {
+            "census_dc": "270",
+            "census_sc": "13",
+            "district": "Kohima",
+            "state": "NL"
+        },
+        {
+            "census_dc": "268",
+            "census_sc": "13",
+            "district": "Longleng",
+            "state": "NL"
+        },
+        {
+            "census_dc": "262",
+            "census_sc": "13",
+            "district": "Mokokchung",
+            "state": "NL"
+        },
+        {
+            "census_dc": "261",
+            "census_sc": "13",
+            "district": "Mon",
+            "state": "NL"
+        },
+        {
+            "census_dc": "271",
+            "census_sc": "13",
+            "district": "Peren",
+            "state": "NL"
+        },
+        {
+            "census_dc": "266",
+            "census_sc": "13",
+            "district": "Phek",
+            "state": "NL"
+        },
+        {
+            "census_dc": "267",
+            "census_sc": "13",
+            "district": "Tuensang",
+            "state": "NL"
+        },
+        {
+            "census_dc": "264",
+            "census_sc": "13",
+            "district": "Wokha",
+            "state": "NL"
+        },
+        {
+            "census_dc": "263",
+            "census_sc": "13",
+            "district": "Zunheboto",
+            "state": "NL"
+        }
+    ],
+    "OR": [
+        {
+            "census_dc": "384",
+            "census_sc": "21",
+            "district": "Anugul",
+            "state": "OR"
+        },
+        {
+            "census_dc": "393",
+            "census_sc": "21",
+            "district": "Balangir",
+            "state": "OR"
+        },
+        {
+            "census_dc": "377",
+            "census_sc": "21",
+            "district": "Baleshwar",
+            "state": "OR"
+        },
+        {
+            "census_dc": "370",
+            "census_sc": "21",
+            "district": "Bargarh",
+            "state": "OR"
+        },
+        {
+            "census_dc": "391",
+            "census_sc": "21",
+            "district": "Baudh",
+            "state": "OR"
+        },
+        {
+            "census_dc": "378",
+            "census_sc": "21",
+            "district": "Bhadrak",
+            "state": "OR"
+        },
+        {
+            "census_dc": "381",
+            "census_sc": "21",
+            "district": "Cuttack",
+            "state": "OR"
+        },
+        {
+            "census_dc": "373",
+            "census_sc": "21",
+            "district": "Debagarh",
+            "state": "OR"
+        },
+        {
+            "census_dc": "383",
+            "census_sc": "21",
+            "district": "Dhenkanal",
+            "state": "OR"
+        },
+        {
+            "census_dc": "389",
+            "census_sc": "21",
+            "district": "Gajapati",
+            "state": "OR"
+        },
+        {
+            "census_dc": "388",
+            "census_sc": "21",
+            "district": "Ganjam",
+            "state": "OR"
+        },
+        {
+            "census_dc": "380",
+            "census_sc": "21",
+            "district": "Jagatsinghapur",
+            "state": "OR"
+        },
+        {
+            "census_dc": "382",
+            "census_sc": "21",
+            "district": "Jajapur",
+            "state": "OR"
+        },
+        {
+            "census_dc": "371",
+            "census_sc": "21",
+            "district": "Jharsuguda",
+            "state": "OR"
+        },
+        {
+            "census_dc": "395",
+            "census_sc": "21",
+            "district": "Kalahandi",
+            "state": "OR"
+        },
+        {
+            "census_dc": "390",
+            "census_sc": "21",
+            "district": "Kandhamal",
+            "state": "OR"
+        },
+        {
+            "census_dc": "379",
+            "census_sc": "21",
+            "district": "Kendrapara",
+            "state": "OR"
+        },
+        {
+            "census_dc": "375",
+            "census_sc": "21",
+            "district": "Kendujhar",
+            "state": "OR"
+        },
+        {
+            "census_dc": "386",
+            "census_sc": "21",
+            "district": "Khordha",
+            "state": "OR"
+        },
+        {
+            "census_dc": "398",
+            "census_sc": "21",
+            "district": "Koraput",
+            "state": "OR"
+        },
+        {
+            "census_dc": "399",
+            "census_sc": "21",
+            "district": "Malkangiri",
+            "state": "OR"
+        },
+        {
+            "census_dc": "376",
+            "census_sc": "21",
+            "district": "Mayurbhanj",
+            "state": "OR"
+        },
+        {
+            "census_dc": "397",
+            "census_sc": "21",
+            "district": "Nabarangapur",
+            "state": "OR"
+        },
+        {
+            "census_dc": "385",
+            "census_sc": "21",
+            "district": "Nayagarh",
+            "state": "OR"
+        },
+        {
+            "census_dc": "394",
+            "census_sc": "21",
+            "district": "Nuapada",
+            "state": "OR"
+        },
+        {
+            "census_dc": "387",
+            "census_sc": "21",
+            "district": "Puri",
+            "state": "OR"
+        },
+        {
+            "census_dc": "396",
+            "census_sc": "21",
+            "district": "Rayagada",
+            "state": "OR"
+        },
+        {
+            "census_dc": "372",
+            "census_sc": "21",
+            "district": "Sambalpur",
+            "state": "OR"
+        },
+        {
+            "census_dc": "392",
+            "census_sc": "21",
+            "district": "Subarnapur",
+            "state": "OR"
+        },
+        {
+            "census_dc": "374",
+            "census_sc": "21",
+            "district": "Sundargarh",
+            "state": "OR"
+        }
+    ],
+    "PB": [
+        {
+            "census_dc": "049",
+            "census_sc": "03",
+            "district": "Amritsar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "054",
+            "census_sc": "03",
+            "district": "Barnala",
+            "state": "PB"
+        },
+        {
+            "census_dc": "046",
+            "census_sc": "03",
+            "district": "Bathinda",
+            "state": "PB"
+        },
+        {
+            "census_dc": "045",
+            "census_sc": "03",
+            "district": "Faridkot",
+            "state": "PB"
+        },
+        {
+            "census_dc": "040",
+            "census_sc": "03",
+            "district": "Fatehgarh Sahib",
+            "state": "PB"
+        },
+        {
+            "census_dc": "043",
+            "census_sc": "03",
+            "district": "Firozpur",
+            "state": "PB"
+        },
+        {
+            "census_dc": "035",
+            "census_sc": "03",
+            "district": "Gurdaspur",
+            "state": "PB"
+        },
+        {
+            "census_dc": "038",
+            "census_sc": "03",
+            "district": "Hoshiarpur",
+            "state": "PB"
+        },
+        {
+            "census_dc": "037",
+            "census_sc": "03",
+            "district": "Jalandhar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "036",
+            "census_sc": "03",
+            "district": "Kapurthala",
+            "state": "PB"
+        },
+        {
+            "census_dc": "041",
+            "census_sc": "03",
+            "district": "Ludhiana",
+            "state": "PB"
+        },
+        {
+            "census_dc": "047",
+            "census_sc": "03",
+            "district": "Mansa",
+            "state": "PB"
+        },
+        {
+            "census_dc": "042",
+            "census_sc": "03",
+            "district": "Moga",
+            "state": "PB"
+        },
+        {
+            "census_dc": "044",
+            "census_sc": "03",
+            "district": "Muktsar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "048",
+            "census_sc": "03",
+            "district": "Patiala",
+            "state": "PB"
+        },
+        {
+            "census_dc": "051",
+            "census_sc": "03",
+            "district": "Rupnagar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "052",
+            "census_sc": "03",
+            "district": "Sahibzada Ajit Singh Nagar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "053",
+            "census_sc": "03",
+            "district": "Sangrur",
+            "state": "PB"
+        },
+        {
+            "census_dc": "039",
+            "census_sc": "03",
+            "district": "Shahid Bhagat Singh Nagar",
+            "state": "PB"
+        },
+        {
+            "census_dc": "050",
+            "census_sc": "03",
+            "district": "Tarn Taran",
+            "state": "PB"
+        }
+    ],
+    "PY": [
+        {
+            "census_dc": "637",
+            "census_sc": "34",
+            "district": "Karaikal",
+            "state": "PY"
+        },
+        {
+            "census_dc": "636",
+            "census_sc": "34",
+            "district": "Mahe",
+            "state": "PY"
+        },
+        {
+            "census_dc": "635",
+            "census_sc": "34",
+            "district": "Puducherry",
+            "state": "PY"
+        },
+        {
+            "census_dc": "634",
+            "census_sc": "34",
+            "district": "Yanam",
+            "state": "PY"
+        }
+    ],
+    "RJ": [
+        {
+            "census_dc": "119",
+            "census_sc": "08",
+            "district": "Ajmer",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "104",
+            "census_sc": "08",
+            "district": "Alwar",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "125",
+            "census_sc": "08",
+            "district": "Banswara",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "128",
+            "census_sc": "08",
+            "district": "Baran",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "115",
+            "census_sc": "08",
+            "district": "Barmer",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "105",
+            "census_sc": "08",
+            "district": "Bharatpur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "122",
+            "census_sc": "08",
+            "district": "Bhilwara",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "101",
+            "census_sc": "08",
+            "district": "Bikaner",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "121",
+            "census_sc": "08",
+            "district": "Bundi",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "126",
+            "census_sc": "08",
+            "district": "Chittaurgarh",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "102",
+            "census_sc": "08",
+            "district": "Churu",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "109",
+            "census_sc": "08",
+            "district": "Dausa",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "106",
+            "census_sc": "08",
+            "district": "Dhaulpur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "124",
+            "census_sc": "08",
+            "district": "Dungarpur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "099",
+            "census_sc": "08",
+            "district": "Ganganagar",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "100",
+            "census_sc": "08",
+            "district": "Hanumangarh",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "110",
+            "census_sc": "08",
+            "district": "Jaipur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "114",
+            "census_sc": "08",
+            "district": "Jaisalmer",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "116",
+            "census_sc": "08",
+            "district": "Jalor",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "129",
+            "census_sc": "08",
+            "district": "Jhalawar",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "103",
+            "census_sc": "08",
+            "district": "Jhunjhunun",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "113",
+            "census_sc": "08",
+            "district": "Jodhpur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "107",
+            "census_sc": "08",
+            "district": "Karauli",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "127",
+            "census_sc": "08",
+            "district": "Kota",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "112",
+            "census_sc": "08",
+            "district": "Nagaur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "118",
+            "census_sc": "08",
+            "district": "Pali",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "131",
+            "census_sc": "08",
+            "district": "Pratapgarh",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "123",
+            "census_sc": "08",
+            "district": "Rajsamand",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "108",
+            "census_sc": "08",
+            "district": "Sawai Madhopur",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "111",
+            "census_sc": "08",
+            "district": "Sikar",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "117",
+            "census_sc": "08",
+            "district": "Sirohi",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "120",
+            "census_sc": "08",
+            "district": "Tonk",
+            "state": "RJ"
+        },
+        {
+            "census_dc": "130",
+            "census_sc": "08",
+            "district": "Udaipur",
+            "state": "RJ"
+        }
+    ],
+    "SK": [
+        {
+            "census_dc": "244",
+            "census_sc": "11",
+            "district": "East District",
+            "state": "SK"
+        },
+        {
+            "census_dc": "241",
+            "census_sc": "11",
+            "district": "North District",
+            "state": "SK"
+        },
+        {
+            "census_dc": "243",
+            "census_sc": "11",
+            "district": "South District",
+            "state": "SK"
+        },
+        {
+            "census_dc": "242",
+            "census_sc": "11",
+            "district": "West District",
+            "state": "SK"
+        }
+    ],
+    "TN": [
+        {
+            "census_dc": "616",
+            "census_sc": "33",
+            "district": "Ariyalur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "603",
+            "census_sc": "33",
+            "district": "Chennai",
+            "state": "TN"
+        },
+        {
+            "census_dc": "632",
+            "census_sc": "33",
+            "district": "Coimbatore",
+            "state": "TN"
+        },
+        {
+            "census_dc": "617",
+            "census_sc": "33",
+            "district": "Cuddalore",
+            "state": "TN"
+        },
+        {
+            "census_dc": "630",
+            "census_sc": "33",
+            "district": "Dharmapuri",
+            "state": "TN"
+        },
+        {
+            "census_dc": "612",
+            "census_sc": "33",
+            "district": "Dindigul",
+            "state": "TN"
+        },
+        {
+            "census_dc": "610",
+            "census_sc": "33",
+            "district": "Erode",
+            "state": "TN"
+        },
+        {
+            "census_dc": "604",
+            "census_sc": "33",
+            "district": "Kancheepuram",
+            "state": "TN"
+        },
+        {
+            "census_dc": "629",
+            "census_sc": "33",
+            "district": "Kanniyakumari",
+            "state": "TN"
+        },
+        {
+            "census_dc": "613",
+            "census_sc": "33",
+            "district": "Karur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "631",
+            "census_sc": "33",
+            "district": "Krishnagiri",
+            "state": "TN"
+        },
+        {
+            "census_dc": "623",
+            "census_sc": "33",
+            "district": "Madurai",
+            "state": "TN"
+        },
+        {
+            "census_dc": "618",
+            "census_sc": "33",
+            "district": "Nagapattinam",
+            "state": "TN"
+        },
+        {
+            "census_dc": "609",
+            "census_sc": "33",
+            "district": "Namakkal",
+            "state": "TN"
+        },
+        {
+            "census_dc": "615",
+            "census_sc": "33",
+            "district": "Perambalur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "621",
+            "census_sc": "33",
+            "district": "Pudukkottai",
+            "state": "TN"
+        },
+        {
+            "census_dc": "626",
+            "census_sc": "33",
+            "district": "Ramanathapuram",
+            "state": "TN"
+        },
+        {
+            "census_dc": "608",
+            "census_sc": "33",
+            "district": "Salem",
+            "state": "TN"
+        },
+        {
+            "census_dc": "622",
+            "census_sc": "33",
+            "district": "Sivaganga",
+            "state": "TN"
+        },
+        {
+            "census_dc": "620",
+            "census_sc": "33",
+            "district": "Thanjavur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "611",
+            "census_sc": "33",
+            "district": "The Nilgiris",
+            "state": "TN"
+        },
+        {
+            "census_dc": "624",
+            "census_sc": "33",
+            "district": "Theni",
+            "state": "TN"
+        },
+        {
+            "census_dc": "602",
+            "census_sc": "33",
+            "district": "Thiruvallur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "619",
+            "census_sc": "33",
+            "district": "Thiruvarur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "627",
+            "census_sc": "33",
+            "district": "Thoothukkudi",
+            "state": "TN"
+        },
+        {
+            "census_dc": "614",
+            "census_sc": "33",
+            "district": "Tiruchirappalli",
+            "state": "TN"
+        },
+        {
+            "census_dc": "628",
+            "census_sc": "33",
+            "district": "Tirunelveli",
+            "state": "TN"
+        },
+        {
+            "census_dc": "633",
+            "census_sc": "33",
+            "district": "Tiruppur",
+            "state": "TN"
+        },
+        {
+            "census_dc": "606",
+            "census_sc": "33",
+            "district": "Tiruvannamalai",
+            "state": "TN"
+        },
+        {
+            "census_dc": "605",
+            "census_sc": "33",
+            "district": "Vellore",
+            "state": "TN"
+        },
+        {
+            "census_dc": "607",
+            "census_sc": "33",
+            "district": "Viluppuram",
+            "state": "TN"
+        },
+        {
+            "census_dc": "625",
+            "census_sc": "33",
+            "district": "Virudhunagar",
+            "state": "TN"
+        }
+    ],
+    "TR": [
+        {
+            "census_dc": "291",
+            "census_sc": "16",
+            "district": "Dhalai",
+            "state": "TR"
+        },
+        {
+            "census_dc": "292",
+            "census_sc": "16",
+            "district": "North Tripura",
+            "state": "TR"
+        },
+        {
+            "census_dc": "290",
+            "census_sc": "16",
+            "district": "South Tripura",
+            "state": "TR"
+        },
+        {
+            "census_dc": "289",
+            "census_sc": "16",
+            "district": "West Tripura",
+            "state": "TR"
+        }
+    ],
+    "UP": [
+        {
+            "census_dc": "146",
+            "census_sc": "09",
+            "district": "Agra",
+            "state": "UP"
+        },
+        {
+            "census_dc": "143",
+            "census_sc": "09",
+            "district": "Aligarh",
+            "state": "UP"
+        },
+        {
+            "census_dc": "175",
+            "census_sc": "09",
+            "district": "Allahabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "178",
+            "census_sc": "09",
+            "district": "Ambedkar Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "162",
+            "census_sc": "09",
+            "district": "Auraiya",
+            "state": "UP"
+        },
+        {
+            "census_dc": "191",
+            "census_sc": "09",
+            "district": "Azamgarh",
+            "state": "UP"
+        },
+        {
+            "census_dc": "139",
+            "census_sc": "09",
+            "district": "Baghpat",
+            "state": "UP"
+        },
+        {
+            "census_dc": "180",
+            "census_sc": "09",
+            "district": "Bahraich",
+            "state": "UP"
+        },
+        {
+            "census_dc": "193",
+            "census_sc": "09",
+            "district": "Ballia",
+            "state": "UP"
+        },
+        {
+            "census_dc": "182",
+            "census_sc": "09",
+            "district": "Balrampur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "170",
+            "census_sc": "09",
+            "district": "Banda",
+            "state": "UP"
+        },
+        {
+            "census_dc": "176",
+            "census_sc": "09",
+            "district": "Bara Banki",
+            "state": "UP"
+        },
+        {
+            "census_dc": "150",
+            "census_sc": "09",
+            "district": "Bareilly",
+            "state": "UP"
+        },
+        {
+            "census_dc": "185",
+            "census_sc": "09",
+            "district": "Basti",
+            "state": "UP"
+        },
+        {
+            "census_dc": "134",
+            "census_sc": "09",
+            "district": "Bijnor",
+            "state": "UP"
+        },
+        {
+            "census_dc": "149",
+            "census_sc": "09",
+            "district": "Budaun",
+            "state": "UP"
+        },
+        {
+            "census_dc": "142",
+            "census_sc": "09",
+            "district": "Bulandshahr",
+            "state": "UP"
+        },
+        {
+            "census_dc": "196",
+            "census_sc": "09",
+            "district": "Chandauli",
+            "state": "UP"
+        },
+        {
+            "census_dc": "171",
+            "census_sc": "09",
+            "district": "Chitrakoot",
+            "state": "UP"
+        },
+        {
+            "census_dc": "190",
+            "census_sc": "09",
+            "district": "Deoria",
+            "state": "UP"
+        },
+        {
+            "census_dc": "201",
+            "census_sc": "09",
+            "district": "Etah",
+            "state": "UP"
+        },
+        {
+            "census_dc": "161",
+            "census_sc": "09",
+            "district": "Etawah",
+            "state": "UP"
+        },
+        {
+            "census_dc": "177",
+            "census_sc": "09",
+            "district": "Faizabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "159",
+            "census_sc": "09",
+            "district": "Farrukhabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "172",
+            "census_sc": "09",
+            "district": "Fatehpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "147",
+            "census_sc": "09",
+            "district": "Firozabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "141",
+            "census_sc": "09",
+            "district": "Gautam Buddha Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "140",
+            "census_sc": "09",
+            "district": "Ghaziabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "195",
+            "census_sc": "09",
+            "district": "Ghazipur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "183",
+            "census_sc": "09",
+            "district": "Gonda",
+            "state": "UP"
+        },
+        {
+            "census_dc": "188",
+            "census_sc": "09",
+            "district": "Gorakhpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "168",
+            "census_sc": "09",
+            "district": "Hamirpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "155",
+            "census_sc": "09",
+            "district": "Hardoi",
+            "state": "UP"
+        },
+        {
+            "census_dc": "165",
+            "census_sc": "09",
+            "district": "Jalaun",
+            "state": "UP"
+        },
+        {
+            "census_dc": "194",
+            "census_sc": "09",
+            "district": "Jaunpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "166",
+            "census_sc": "09",
+            "district": "Jhansi",
+            "state": "UP"
+        },
+        {
+            "census_dc": "137",
+            "census_sc": "09",
+            "district": "Jyotiba Phule Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "160",
+            "census_sc": "09",
+            "district": "Kannauj",
+            "state": "UP"
+        },
+        {
+            "census_dc": "163",
+            "census_sc": "09",
+            "district": "Kanpur Dehat",
+            "state": "UP"
+        },
+        {
+            "census_dc": "164",
+            "census_sc": "09",
+            "district": "Kanpur Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "202",
+            "census_sc": "09",
+            "district": "Kanshiram Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "174",
+            "census_sc": "09",
+            "district": "Kaushambi",
+            "state": "UP"
+        },
+        {
+            "census_dc": "153",
+            "census_sc": "09",
+            "district": "Kheri",
+            "state": "UP"
+        },
+        {
+            "census_dc": "189",
+            "census_sc": "09",
+            "district": "Kushinagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "167",
+            "census_sc": "09",
+            "district": "Lalitpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "157",
+            "census_sc": "09",
+            "district": "Lucknow",
+            "state": "UP"
+        },
+        {
+            "census_dc": "144",
+            "census_sc": "09",
+            "district": "Mahamaya Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "169",
+            "census_sc": "09",
+            "district": "Mahoba",
+            "state": "UP"
+        },
+        {
+            "census_dc": "187",
+            "census_sc": "09",
+            "district": "Mahrajganj",
+            "state": "UP"
+        },
+        {
+            "census_dc": "148",
+            "census_sc": "09",
+            "district": "Mainpuri",
+            "state": "UP"
+        },
+        {
+            "census_dc": "145",
+            "census_sc": "09",
+            "district": "Mathura",
+            "state": "UP"
+        },
+        {
+            "census_dc": "192",
+            "census_sc": "09",
+            "district": "Mau",
+            "state": "UP"
+        },
+        {
+            "census_dc": "138",
+            "census_sc": "09",
+            "district": "Meerut",
+            "state": "UP"
+        },
+        {
+            "census_dc": "199",
+            "census_sc": "09",
+            "district": "Mirzapur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "135",
+            "census_sc": "09",
+            "district": "Moradabad",
+            "state": "UP"
+        },
+        {
+            "census_dc": "133",
+            "census_sc": "09",
+            "district": "Muzaffarnagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "151",
+            "census_sc": "09",
+            "district": "Pilibhit",
+            "state": "UP"
+        },
+        {
+            "census_dc": "173",
+            "census_sc": "09",
+            "district": "Pratapgarh",
+            "state": "UP"
+        },
+        {
+            "census_dc": "158",
+            "census_sc": "09",
+            "district": "Rae Bareli",
+            "state": "UP"
+        },
+        {
+            "census_dc": "136",
+            "census_sc": "09",
+            "district": "Rampur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "132",
+            "census_sc": "09",
+            "district": "Saharanpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "186",
+            "census_sc": "09",
+            "district": "Sant Kabir Nagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "198",
+            "census_sc": "09",
+            "district": "Sant Ravidas Nagar (Bhadohi)",
+            "state": "UP"
+        },
+        {
+            "census_dc": "152",
+            "census_sc": "09",
+            "district": "Shahjahanpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "181",
+            "census_sc": "09",
+            "district": "Shrawasti",
+            "state": "UP"
+        },
+        {
+            "census_dc": "184",
+            "census_sc": "09",
+            "district": "Siddharthnagar",
+            "state": "UP"
+        },
+        {
+            "census_dc": "154",
+            "census_sc": "09",
+            "district": "Sitapur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "200",
+            "census_sc": "09",
+            "district": "Sonbhadra",
+            "state": "UP"
+        },
+        {
+            "census_dc": "179",
+            "census_sc": "09",
+            "district": "Sultanpur",
+            "state": "UP"
+        },
+        {
+            "census_dc": "156",
+            "census_sc": "09",
+            "district": "Unnao",
+            "state": "UP"
+        },
+        {
+            "census_dc": "197",
+            "census_sc": "09",
+            "district": "Varanasi",
+            "state": "UP"
+        }
+    ],
+    "UT": [
+        {
+            "census_dc": "064",
+            "census_sc": "05",
+            "district": "Almora",
+            "state": "UT"
+        },
+        {
+            "census_dc": "063",
+            "census_sc": "05",
+            "district": "Bageshwar",
+            "state": "UT"
+        },
+        {
+            "census_dc": "057",
+            "census_sc": "05",
+            "district": "Chamoli",
+            "state": "UT"
+        },
+        {
+            "census_dc": "065",
+            "census_sc": "05",
+            "district": "Champawat",
+            "state": "UT"
+        },
+        {
+            "census_dc": "060",
+            "census_sc": "05",
+            "district": "Dehradun",
+            "state": "UT"
+        },
+        {
+            "census_dc": "061",
+            "census_sc": "05",
+            "district": "Garhwal",
+            "state": "UT"
+        },
+        {
+            "census_dc": "068",
+            "census_sc": "05",
+            "district": "Hardwar",
+            "state": "UT"
+        },
+        {
+            "census_dc": "066",
+            "census_sc": "05",
+            "district": "Nainital",
+            "state": "UT"
+        },
+        {
+            "census_dc": "062",
+            "census_sc": "05",
+            "district": "Pithoragarh",
+            "state": "UT"
+        },
+        {
+            "census_dc": "058",
+            "census_sc": "05",
+            "district": "Rudraprayag",
+            "state": "UT"
+        },
+        {
+            "census_dc": "059",
+            "census_sc": "05",
+            "district": "Tehri Garhwal",
+            "state": "UT"
+        },
+        {
+            "census_dc": "067",
+            "census_sc": "05",
+            "district": "Udham Singh Nagar",
+            "state": "UT"
+        },
+        {
+            "census_dc": "056",
+            "census_sc": "05",
+            "district": "Uttarkashi",
+            "state": "UT"
+        }
+    ],
+    "WB": [
+        {
+            "census_dc": "339",
+            "census_sc": "19",
+            "district": "Bankura",
+            "state": "WB"
+        },
+        {
+            "census_dc": "335",
+            "census_sc": "19",
+            "district": "Barddhaman",
+            "state": "WB"
+        },
+        {
+            "census_dc": "334",
+            "census_sc": "19",
+            "district": "Birbhum",
+            "state": "WB"
+        },
+        {
+            "census_dc": "331",
+            "census_sc": "19",
+            "district": "Dakshin Dinajpur",
+            "state": "WB"
+        },
+        {
+            "census_dc": "327",
+            "census_sc": "19",
+            "district": "Darjiling",
+            "state": "WB"
+        },
+        {
+            "census_dc": "341",
+            "census_sc": "19",
+            "district": "Haora",
+            "state": "WB"
+        },
+        {
+            "census_dc": "338",
+            "census_sc": "19",
+            "district": "Hugli",
+            "state": "WB"
+        },
+        {
+            "census_dc": "328",
+            "census_sc": "19",
+            "district": "Jalpaiguri",
+            "state": "WB"
+        },
+        {
+            "census_dc": "329",
+            "census_sc": "19",
+            "district": "Koch Bihar",
+            "state": "WB"
+        },
+        {
+            "census_dc": "342",
+            "census_sc": "19",
+            "district": "Kolkata",
+            "state": "WB"
+        },
+        {
+            "census_dc": "332",
+            "census_sc": "19",
+            "district": "Maldah",
+            "state": "WB"
+        },
+        {
+            "census_dc": "333",
+            "census_sc": "19",
+            "district": "Murshidabad",
+            "state": "WB"
+        },
+        {
+            "census_dc": "336",
+            "census_sc": "19",
+            "district": "Nadia",
+            "state": "WB"
+        },
+        {
+            "census_dc": "337",
+            "census_sc": "19",
+            "district": "North Twenty Four Parganas",
+            "state": "WB"
+        },
+        {
+            "census_dc": "344",
+            "census_sc": "19",
+            "district": "Paschim Medinipur",
+            "state": "WB"
+        },
+        {
+            "census_dc": "345",
+            "census_sc": "19",
+            "district": "Purba Medinipur",
+            "state": "WB"
+        },
+        {
+            "census_dc": "340",
+            "census_sc": "19",
+            "district": "Puruliya",
+            "state": "WB"
+        },
+        {
+            "census_dc": "343",
+            "census_sc": "19",
+            "district": "South Twenty Four Parganas",
+            "state": "WB"
+        },
+        {
+            "census_dc": "330",
+            "census_sc": "19",
+            "district": "Uttar Dinajpur",
+            "state": "WB"
+        }
+    ]
+}
