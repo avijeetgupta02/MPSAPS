@@ -19,7 +19,7 @@ s={'MP' : [{'census_dc': '465', 'census_sc': '23', 'district': 'Alirajpur', 'sta
 {'census_dc': '453', 'census_sc': '23', 'district': 'Dindori', 'state': 'MP', 'district_deva': 'डिण्डोरी'},
 {'census_dc': '458', 'census_sc': '23', 'district': 'Guna', 'state': 'MP', 'district_deva': 'गुना'},
 {'census_dc': '421', 'census_sc': '23', 'district': 'Gwalior', 'state': 'MP', 'district_deva': 'ग्वालियर'},
-{'census_dc': '448', 'census_sc': '23', 'district': 'Harda', 'state': 'MP', 'district_deva': 'हरदा'},
+{'census_dc': '448', 'census_sc': '23', 'district': 'Harda', 'state ': 'MP', 'district_deva': 'हरदा'},
 {'census_dc': '449', 'census_sc': '23', 'district': 'Hoshangabad', 'state': 'MP', 'district_deva': 'होशंगाबाद'},
 {'census_dc': '439', 'census_sc': '23', 'district': 'Indore', 'state': 'MP', 'district_deva': 'इन्दौर'},
 {'census_dc': '451', 'census_sc': '23', 'district': 'Jabalpur', 'state': 'MP', 'district_deva': 'जबलपुर'},

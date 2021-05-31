@@ -51,7 +51,7 @@ s={'MP' : [{'census_dc': '465', 'census_sc': '23', 'district': 'Alirajpur', 'sta
 {'census_dc': '435', 'census_sc': '23', 'district': 'Ujjain', 'state': 'MP', 'district_deva': 'उज्जैन'},
 {'census_dc': '431', 'census_sc': '23', 'district': 'Umaria', 'state': 'MP', 'district_deva': 'उमरिया'},
 {'census_dc': '443', 'census_sc': '23', 'district': 'Vidisha', 'state': 'MP', 'district_deva': 'विदिशा'},
-{'census_dc': '000', 'census_sc': '00', 'district': 'Agar Malwa', 'state': 'MP', 'district_deva': 'आगर मालवा'}]}
+{'census_dc': '4361', 'census_sc': '23', 'district': 'Agar Malwa', 'state': 'MP', 'district_deva': 'आगर मालवा'}]}
 
 
 with open("MP_updated.json", "w") as file: 
